@@ -2,6 +2,8 @@
   "name": "ExactDocbox",
   "version": "0.1.0",
   "dependencies": {
-    "dbox": "0.6.1"
+    "dbox": "0.6.1",
+    "express": "~4.0.0",
+	"ejs": "~1.0.0"
   }
 }
